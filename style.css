@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html , body{
+    height: 100%;
+    width: 100%;
+}
+
+.form-sec{
+    width: 60%;
+    margin: 0 auto;
+    margin-top: 70px;
+    box-shadow: 2px 2px 2px 2px rgb(126, 111, 111);
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.table-sec{
+    width: 70%;
+    margin: 0 auto;
+    margin-top: 40px;
+}
+
+table i{
+    font-size: 24px;
+}
+a{
+    text-decoration: none;
+}
